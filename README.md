@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Zhengling (Claire) Jiang 👋
 
-<!--
-**ClaireJ2100/ClaireJ2100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master of Data Science (MDS) student at UBC with hands-on experience in data analysis, SQL, machine learning, and software development. I enjoy turning data into insights and building reproducible, user-friendly tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 📈 [Data Science Salaries Dashboard](https://github.com/ClaireJ2100/Data_Science_Salaries_Dashboard)
+An interactive dashboard visualizing data science salary trends across roles, experience levels, and locations.
+Built with Dash (Plotly) for real-time data exploration.
+
+### 🌍 [py-atmosphere](https://github.com/ClaireJ2100/py_atmosphere)
+A Python package to calculate atmospheric conditions and Mach number using NASA’s GRC model.  
+Built with Poetry, tested with Pytest, and structured with Cookiecutter.  
+*Team project for scientific computing and packaging*
+
+
+### 🛂 [Visa Application SQL Database](https://github.com/ClaireJ2100/visa-info-management-sql-database)
+Relational database and GUI for managing visa application and processing workflows.  
+Designed as part of a course project using SQL, ER modeling, and normalization.  
+
+
+
+### 📊 [Student Performance Prediction](https://github.com/ClaireJ2100/dsci522-student-performance-quarto-docker)
+Predicting math performance using demographic and behavioral data.  
+Built with Docker, published via Quarto.  
+
+
+### 🏠 [California Housing Price Prediction](https://github.com/ClaireJ2100/california-housing-trend-analysis)
+Regression analysis on California census data to explore housing value trends.  
+Applied linear and LASSO regression using R.  
+
+
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Languages**: Python, R, SQL, HTML/CSS, C++, Java
+- **Tools**: Power BI, Dash, Shiny, Docker, Jupyter, Quarto, Git
+- **Concepts**: Machine Learning, Statistical Inference, Relational Databases, Reproducibility, Software Engineering
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: [cjiang1280@gmail.com](mailto:cjiang1280@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/zhengling-claire-jiang-3336b4243/)  
+
