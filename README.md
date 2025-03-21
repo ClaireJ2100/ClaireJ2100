@@ -10,6 +10,10 @@ I'm a Master of Data Science (MDS) student at UBC with hands-on experience in da
 An interactive dashboard visualizing data science salary trends across roles, experience levels, and locations.
 Built with Dash (Plotly) for real-time data exploration.
 
+### 📈 [Amazon Financial Insights Dashboard](https://github.com/ClaireJ2100/amazon-finance-dashboard)
+An interactive dashboard built with R Shiny to explore Amazon’s revenue, profit breakdown, and growth trends.
+Visualizes quarterly financial data retrieved from Alpha Vantage API.
+
 ### 🌍 [py-atmosphere](https://github.com/ClaireJ2100/py_atmosphere)
 A Python package to calculate atmospheric conditions and Mach number using NASA’s GRC model.  
 Built with Poetry, tested with Pytest, and structured with Cookiecutter.  
