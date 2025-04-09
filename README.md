@@ -50,5 +50,5 @@ Applied linear and LASSO regression using R.
 ## 📫 Let's Connect
 
 - 📧 Email: [cjiang1280@gmail.com](mailto:cjiang1280@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/zhengling-claire-jiang-3336b4243/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/zhengling-jiang/)  
 
