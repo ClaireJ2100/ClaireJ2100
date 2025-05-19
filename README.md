@@ -20,6 +20,11 @@ Built with Poetry, tested with Pytest, and structured with Cookiecutter.
 *Team project for scientific computing and packaging*
 
 
+### 📊 [ICBC Stock Price Analysis and Forecasting](https://github.com/ClaireJ2100/icbc-stock-financial-analysis)
+Analysis and forecasting of ICBC A-share stock prices (2020-2024) using Python, LSTM neural networks, and financial risk metrics such as Value at Risk and rolling volatility.
+The project explores historical price trends, evaluates model performance with regression metrics, and visualizes predicted versus actual prices.
+
+
 ### 🛂 [Visa Application SQL Database](https://github.com/ClaireJ2100/visa-info-management-sql-database)
 Relational database and GUI for managing visa application and processing workflows.  
 Designed as part of a course project using SQL, ER modeling, and normalization.  
